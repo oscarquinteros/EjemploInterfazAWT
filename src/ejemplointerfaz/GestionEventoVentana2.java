@@ -17,7 +17,7 @@ public class GestionEventoVentana2 extends WindowAdapter{
         System.exit(0);
     }    
     public void windowIconified(WindowEvent e) {
-        System.out.println("Se activo windowIconified");
+//        System.out.println("Se activo windowIconified");
     }
     
 }
